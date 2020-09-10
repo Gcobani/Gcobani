@@ -6,7 +6,7 @@
 ## I'm a Full Stack Developer based in Cape Town!
 
 
-Connect with me:
+Connect with me on socials:
 
 [<img align="left" alt="Gcob4ni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
