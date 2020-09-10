@@ -1,7 +1,7 @@
 ### Hi there, I'm Gcobani  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gcob4ni?color=1DA1F2&logo=twitter&style=for-the-badge)] (https://twitter.com/intent/follow?screen_name=Gcob4ni)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gcob4ni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Gcob4ni)
 
 ## I'm a Full Stack Developer based in Cape Town!
 
